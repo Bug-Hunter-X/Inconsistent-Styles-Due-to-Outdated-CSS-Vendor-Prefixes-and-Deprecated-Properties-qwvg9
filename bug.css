@@ -1,0 +1,1 @@
+The CSS code uses a vendor prefix that is no longer necessary or supported by modern browsers. For example, using `-webkit-` or `-moz-` prefixes for properties that have standard support can lead to unexpected rendering results across browsers.  Another example is using a deprecated property or value that is no longer recommended.

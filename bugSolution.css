@@ -1,0 +1,17 @@
+/* Corrected CSS - bugSolution.css */
+.element {
+  /* Removed unnecessary vendor prefixes */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Replaced deprecated property with modern equivalent */
+  height: 100vh;
+  background-color: #f0f0f0; 
+}
+
+.box {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+} 
